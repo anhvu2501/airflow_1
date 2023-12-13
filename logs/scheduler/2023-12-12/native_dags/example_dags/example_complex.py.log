@@ -1,0 +1,809 @@
+[2023-12-12T09:49:18.492+0700] {processor.py:157} INFO - Started process (PID=8012) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:49:18.493+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:49:18.494+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.493+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:49:18.508+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:49:18.703+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.703+0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-12T09:49:18.715+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.715+0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-12T09:49:18.737+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.736+0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-12T09:49:18.738+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.737+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:49:18.759+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.759+0700] {dag.py:2963} INFO - Creating ORM DAG for example_complex
+[2023-12-12T09:49:18.760+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:49:18.759+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:49:18.784+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.295 seconds
+[2023-12-12T09:50:10.598+0700] {processor.py:157} INFO - Started process (PID=8069) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:50:10.600+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:50:10.603+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:50:10.602+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:50:10.620+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:50:10.642+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:50:10.642+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:50:10.750+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:50:10.750+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:50:10.774+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.183 seconds
+[2023-12-12T09:51:03.339+0700] {processor.py:157} INFO - Started process (PID=8130) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:51:03.342+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:51:03.343+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:51:03.342+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:51:03.357+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:51:03.377+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:51:03.377+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:51:03.386+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:51:03.386+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:51:03.406+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-12-12T09:51:54.701+0700] {processor.py:157} INFO - Started process (PID=8277) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:51:54.703+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:51:54.704+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:51:54.704+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:51:54.718+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:51:54.749+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:51:54.749+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:51:54.759+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:51:54.759+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:51:54.777+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
+[2023-12-12T09:52:41.336+0700] {processor.py:157} INFO - Started process (PID=8335) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:52:41.338+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:52:41.338+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:52:41.338+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:52:41.349+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:52:41.373+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:52:41.373+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:52:41.381+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:52:41.381+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:52:41.397+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2023-12-12T09:53:27.605+0700] {processor.py:157} INFO - Started process (PID=8391) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:53:27.606+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:53:27.607+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:53:27.606+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:53:27.617+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:53:27.637+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:53:27.637+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:53:27.645+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:53:27.645+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:53:27.673+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-12-12T09:54:15.457+0700] {processor.py:157} INFO - Started process (PID=8476) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:54:15.459+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:54:15.460+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:54:15.460+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:54:15.475+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:54:15.501+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:54:15.501+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:54:15.509+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:54:15.509+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:54:15.526+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-12-12T09:54:58.618+0700] {processor.py:157} INFO - Started process (PID=8532) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:54:58.621+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:54:58.623+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:54:58.622+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:54:58.645+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:54:58.667+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:54:58.667+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:54:58.675+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:54:58.675+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:54:58.701+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2023-12-12T09:55:43.944+0700] {processor.py:157} INFO - Started process (PID=8586) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:55:43.946+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:55:43.947+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:55:43.947+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:55:43.957+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:55:43.978+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:55:43.978+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:55:43.986+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:55:43.986+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:55:44.004+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T09:56:28.549+0700] {processor.py:157} INFO - Started process (PID=8640) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:56:28.551+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:56:28.552+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:56:28.552+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:56:28.565+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:56:28.589+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:56:28.589+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:56:28.597+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:56:28.597+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:56:28.623+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2023-12-12T09:57:12.578+0700] {processor.py:157} INFO - Started process (PID=8695) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:57:12.580+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:57:12.581+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:57:12.580+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:57:12.592+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:57:12.617+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:57:12.616+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:57:12.625+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:57:12.625+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:57:12.643+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2023-12-12T09:57:59.360+0700] {processor.py:157} INFO - Started process (PID=8750) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:57:59.362+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:57:59.362+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:57:59.362+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:57:59.374+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:57:59.399+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:57:59.399+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:57:59.407+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:57:59.407+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:57:59.432+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2023-12-12T09:58:43.440+0700] {processor.py:157} INFO - Started process (PID=8834) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:58:43.442+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:58:43.443+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:58:43.443+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:58:43.455+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:58:43.479+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:58:43.479+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:58:43.487+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:58:43.487+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:58:43.505+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2023-12-12T09:59:30.440+0700] {processor.py:157} INFO - Started process (PID=8892) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:59:30.442+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T09:59:30.443+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:59:30.442+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:59:30.455+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T09:59:30.479+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:59:30.478+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T09:59:30.487+0700] {logging_mixin.py:154} INFO - [2023-12-12T09:59:30.487+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T09:59:30.512+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2023-12-12T10:00:13.004+0700] {processor.py:157} INFO - Started process (PID=8946) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:00:13.007+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:00:13.008+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:00:13.007+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:00:13.017+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:00:13.038+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:00:13.038+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:00:13.047+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:00:13.047+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:00:13.063+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-12-12T10:00:57.908+0700] {processor.py:157} INFO - Started process (PID=9002) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:00:57.909+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:00:57.909+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:00:57.909+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:00:57.917+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:00:57.935+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:00:57.935+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:00:57.943+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:00:57.943+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:00:57.959+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2023-12-12T10:01:40.322+0700] {processor.py:157} INFO - Started process (PID=9054) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:01:40.325+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:01:40.327+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:01:40.326+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:01:40.357+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:01:40.382+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:01:40.382+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:01:40.391+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:01:40.390+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:01:40.409+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-12-12T10:02:21.872+0700] {processor.py:157} INFO - Started process (PID=9105) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:02:21.874+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:02:21.875+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:02:21.875+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:02:21.886+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:02:21.910+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:02:21.910+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:02:21.918+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:02:21.918+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:02:21.935+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2023-12-12T10:03:09.128+0700] {processor.py:157} INFO - Started process (PID=9169) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:03:09.129+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:03:09.130+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:03:09.130+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:03:09.142+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:03:09.166+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:03:09.165+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:03:09.174+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:03:09.174+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:03:09.192+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2023-12-12T10:03:58.399+0700] {processor.py:157} INFO - Started process (PID=9264) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:03:58.402+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:03:58.402+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:03:58.402+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:03:58.414+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:03:58.438+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:03:58.437+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:03:58.446+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:03:58.446+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:03:58.463+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2023-12-12T10:04:43.103+0700] {processor.py:157} INFO - Started process (PID=9475) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:04:43.104+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:04:43.105+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:04:43.104+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:04:43.113+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:04:43.131+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:04:43.131+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:04:43.139+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:04:43.139+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:04:43.156+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2023-12-12T10:05:27.103+0700] {processor.py:157} INFO - Started process (PID=9536) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:05:27.104+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:05:27.105+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:05:27.105+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:05:27.114+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:05:27.136+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:05:27.136+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:05:27.145+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:05:27.144+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:05:27.161+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2023-12-12T10:06:10.590+0700] {processor.py:157} INFO - Started process (PID=9590) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:06:10.592+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:06:10.592+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:06:10.592+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:06:10.602+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:06:10.624+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:06:10.624+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:06:10.632+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:06:10.632+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:06:10.648+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-12-12T10:06:54.556+0700] {processor.py:157} INFO - Started process (PID=9642) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:06:54.558+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:06:54.559+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:06:54.558+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:06:54.572+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:06:54.599+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:06:54.599+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:06:54.608+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:06:54.607+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:06:54.625+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-12-12T10:07:40.182+0700] {processor.py:157} INFO - Started process (PID=9696) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:07:40.183+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:07:40.184+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:07:40.184+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:07:40.196+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:07:40.220+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:07:40.219+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:07:40.227+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:07:40.227+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:07:40.244+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2023-12-12T10:08:27.127+0700] {processor.py:157} INFO - Started process (PID=9753) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:08:27.129+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:08:27.130+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:08:27.129+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:08:27.140+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:08:27.163+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:08:27.163+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:08:27.172+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:08:27.172+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:08:27.188+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2023-12-12T10:09:08.330+0700] {processor.py:157} INFO - Started process (PID=9845) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:09:08.331+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:09:08.332+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:09:08.331+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:09:08.343+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:09:08.368+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:09:08.368+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:09:08.376+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:09:08.376+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:09:08.401+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2023-12-12T10:09:56.046+0700] {processor.py:157} INFO - Started process (PID=9904) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:09:56.049+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:09:56.051+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:09:56.050+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:09:56.081+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:09:56.105+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:09:56.105+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:09:56.113+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:09:56.113+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:09:56.130+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2023-12-12T10:10:42.868+0700] {processor.py:157} INFO - Started process (PID=9970) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:10:42.870+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:10:42.871+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:10:42.870+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:10:42.880+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:10:42.900+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:10:42.900+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:10:42.908+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:10:42.908+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:10:42.935+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2023-12-12T10:11:30.127+0700] {processor.py:157} INFO - Started process (PID=10042) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:11:30.129+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:11:30.130+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:11:30.130+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:11:30.141+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:11:30.164+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:11:30.164+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:11:30.173+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:11:30.172+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:11:30.190+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2023-12-12T10:12:14.315+0700] {processor.py:157} INFO - Started process (PID=10101) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:12:14.316+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:12:14.317+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:12:14.317+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:12:14.325+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:12:14.345+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:12:14.345+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:12:14.353+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:12:14.353+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:12:14.369+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2023-12-12T10:13:09.484+0700] {processor.py:157} INFO - Started process (PID=10168) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:13:09.487+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:13:09.488+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:13:09.487+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:13:09.503+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:13:09.529+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:13:09.529+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:13:09.537+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:13:09.537+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:13:09.563+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2023-12-12T10:13:53.094+0700] {processor.py:157} INFO - Started process (PID=10264) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:13:53.095+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:13:53.096+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:13:53.095+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:13:53.107+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:13:53.130+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:13:53.130+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:13:53.139+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:13:53.138+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:13:53.155+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2023-12-12T10:14:35.151+0700] {processor.py:157} INFO - Started process (PID=10371) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:14:35.152+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:14:35.152+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:14:35.152+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:14:35.162+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:14:35.182+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:14:35.181+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:14:35.190+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:14:35.189+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:14:35.207+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2023-12-12T10:15:17.806+0700] {processor.py:157} INFO - Started process (PID=10428) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:15:17.814+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:15:17.815+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:15:17.815+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:15:17.831+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:15:17.862+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:15:17.862+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:15:17.879+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:15:17.879+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:15:17.898+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2023-12-12T10:16:01.993+0700] {processor.py:157} INFO - Started process (PID=10527) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:16:01.995+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:16:01.997+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:16:01.996+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:16:02.021+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:16:02.043+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:16:02.043+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:16:02.051+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:16:02.051+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:16:02.078+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2023-12-12T10:16:45.800+0700] {processor.py:157} INFO - Started process (PID=10583) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:16:45.801+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:16:45.802+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:16:45.802+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:16:45.812+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:16:45.834+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:16:45.833+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:16:45.842+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:16:45.842+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:16:45.860+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T10:17:34.648+0700] {processor.py:157} INFO - Started process (PID=10647) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:17:34.650+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:17:34.650+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:17:34.650+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:17:34.660+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:17:34.682+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:17:34.682+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:17:34.690+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:17:34.690+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:17:34.726+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2023-12-12T10:18:22.586+0700] {processor.py:157} INFO - Started process (PID=10711) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:18:22.588+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:18:22.589+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:18:22.588+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:18:22.597+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:18:22.615+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:18:22.615+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:18:22.623+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:18:22.623+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:18:22.640+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2023-12-12T10:19:07.961+0700] {processor.py:157} INFO - Started process (PID=10793) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:19:07.964+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:19:07.964+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:19:07.964+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:19:07.976+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:19:08.001+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:19:08.000+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:19:08.009+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:19:08.009+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:19:08.034+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2023-12-12T10:19:51.620+0700] {processor.py:157} INFO - Started process (PID=10851) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:19:51.621+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:19:51.622+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:19:51.622+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:19:51.634+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:19:51.657+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:19:51.656+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:19:51.665+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:19:51.665+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:19:51.682+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2023-12-12T10:20:36.778+0700] {processor.py:157} INFO - Started process (PID=10907) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:20:36.780+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:20:36.781+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:20:36.780+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:20:36.790+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:20:36.812+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:20:36.811+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:20:36.820+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:20:36.819+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:20:36.836+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2023-12-12T10:21:19.111+0700] {processor.py:157} INFO - Started process (PID=10961) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:21:19.113+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:21:19.114+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:21:19.114+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:21:19.121+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:21:19.139+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:21:19.139+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:21:19.147+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:21:19.146+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:21:19.171+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T10:22:06.602+0700] {processor.py:157} INFO - Started process (PID=11033) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:22:06.605+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:22:06.605+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:22:06.605+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:22:06.615+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:22:06.636+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:22:06.636+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:22:06.644+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:22:06.644+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:22:06.661+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-12-12T10:22:53.492+0700] {processor.py:157} INFO - Started process (PID=11091) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:22:53.494+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:22:53.496+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:22:53.495+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:22:53.526+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:22:53.551+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:22:53.551+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:22:53.559+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:22:53.559+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:22:53.577+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2023-12-12T10:23:38.216+0700] {processor.py:157} INFO - Started process (PID=11149) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:23:38.218+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:23:38.218+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:23:38.218+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:23:38.229+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:23:38.253+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:23:38.253+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:23:38.262+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:23:38.261+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:23:38.285+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-12-12T10:24:25.899+0700] {processor.py:157} INFO - Started process (PID=11240) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:24:25.901+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:24:25.902+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:24:25.901+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:24:25.912+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:24:25.935+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:24:25.935+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:24:25.943+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:24:25.943+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:24:25.959+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T10:25:12.061+0700] {processor.py:157} INFO - Started process (PID=11300) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:25:12.063+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:25:12.064+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:25:12.064+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:25:12.072+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:25:12.090+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:25:12.090+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:25:12.098+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:25:12.098+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:25:12.115+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2023-12-12T10:25:53.917+0700] {processor.py:157} INFO - Started process (PID=11352) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:25:53.919+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:25:53.920+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:25:53.919+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:25:53.931+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:25:53.955+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:25:53.955+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:25:53.963+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:25:53.963+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:25:53.988+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-12-12T10:26:39.733+0700] {processor.py:157} INFO - Started process (PID=11413) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:26:39.735+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:26:39.736+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:26:39.736+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:26:39.747+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:26:39.771+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:26:39.771+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:26:39.779+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:26:39.779+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:26:39.796+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2023-12-12T10:27:21.141+0700] {processor.py:157} INFO - Started process (PID=11466) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:27:21.144+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:27:21.145+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:27:21.144+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:27:21.158+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:27:21.185+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:27:21.184+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:27:21.193+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:27:21.193+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:27:21.210+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-12-12T10:28:10.209+0700] {processor.py:157} INFO - Started process (PID=11534) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:28:10.212+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:28:10.214+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:28:10.213+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:28:10.243+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:28:10.268+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:28:10.268+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:28:10.277+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:28:10.277+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:28:10.295+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-12-12T10:28:57.684+0700] {processor.py:157} INFO - Started process (PID=11661) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:28:57.688+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:28:57.690+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:28:57.689+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:28:57.705+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:28:57.724+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:28:57.724+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:28:57.733+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:28:57.733+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:28:57.751+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2023-12-12T10:29:45.654+0700] {processor.py:157} INFO - Started process (PID=11732) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:29:45.656+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:29:45.657+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:29:45.657+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:29:45.665+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:29:45.684+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:29:45.683+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:29:45.692+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:29:45.691+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:29:45.708+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2023-12-12T10:30:32.440+0700] {processor.py:157} INFO - Started process (PID=11804) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:30:32.441+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:30:32.442+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:30:32.442+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:30:32.454+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:30:32.478+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:30:32.477+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:30:32.486+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:30:32.485+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:30:32.502+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2023-12-12T10:31:18.374+0700] {processor.py:157} INFO - Started process (PID=11863) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:31:18.375+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:31:18.376+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:31:18.376+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:31:18.386+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:31:18.408+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:31:18.408+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:31:18.416+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:31:18.416+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:31:18.440+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2023-12-12T10:32:01.859+0700] {processor.py:157} INFO - Started process (PID=11922) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:32:01.861+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:32:01.862+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:32:01.862+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:32:01.873+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:32:01.897+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:32:01.897+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:32:01.906+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:32:01.905+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:32:01.924+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2023-12-12T10:32:49.954+0700] {processor.py:157} INFO - Started process (PID=12145) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:32:49.956+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:32:49.957+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:32:49.956+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:32:49.970+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:32:49.993+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:32:49.993+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:32:50.001+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:32:50.001+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:32:50.020+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2023-12-12T10:33:37.119+0700] {processor.py:157} INFO - Started process (PID=12264) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:33:37.122+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:33:37.123+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:33:37.123+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:33:37.139+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:33:37.164+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:33:37.164+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:33:37.172+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:33:37.172+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:33:37.190+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2023-12-12T10:34:30.927+0700] {processor.py:157} INFO - Started process (PID=12359) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:34:30.927+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:34:30.928+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:34:30.928+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:34:30.937+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:34:30.958+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:34:30.957+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:34:30.967+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:34:30.967+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:34:30.994+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2023-12-12T10:35:22.295+0700] {processor.py:157} INFO - Started process (PID=12496) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:35:22.298+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:35:22.300+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:35:22.299+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:35:22.320+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:35:22.341+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:35:22.340+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:35:22.348+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:35:22.348+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:35:22.375+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2023-12-12T10:36:07.534+0700] {processor.py:157} INFO - Started process (PID=12566) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:36:07.536+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:36:07.537+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:36:07.536+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:36:07.553+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:36:07.577+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:36:07.577+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:36:07.586+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:36:07.586+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:36:07.613+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2023-12-12T10:36:58.614+0700] {processor.py:157} INFO - Started process (PID=12628) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:36:58.616+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:36:58.618+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:36:58.617+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:36:58.636+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:36:58.658+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:36:58.657+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:36:58.665+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:36:58.665+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:36:58.682+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-12-12T10:37:50.476+0700] {processor.py:157} INFO - Started process (PID=12845) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:37:50.478+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:37:50.478+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:37:50.478+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:37:50.488+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:37:50.510+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:37:50.510+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:37:50.518+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:37:50.518+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:37:50.535+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-12-12T10:38:37.794+0700] {processor.py:157} INFO - Started process (PID=12903) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:38:37.795+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:38:37.795+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:38:37.795+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:38:37.803+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:38:37.820+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:38:37.820+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:38:37.828+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:38:37.828+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:38:37.845+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2023-12-12T10:39:22.370+0700] {processor.py:157} INFO - Started process (PID=12987) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:39:22.372+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:39:22.372+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:39:22.372+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:39:22.383+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:39:22.407+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:39:22.407+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:39:22.415+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:39:22.415+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:39:22.431+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2023-12-12T10:40:07.312+0700] {processor.py:157} INFO - Started process (PID=13041) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:40:07.314+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:40:07.314+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:40:07.314+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:40:07.326+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:40:07.350+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:40:07.350+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:40:07.358+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:40:07.357+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:40:07.381+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-12-12T10:40:52.612+0700] {processor.py:157} INFO - Started process (PID=13106) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:40:52.613+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:40:52.614+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:40:52.613+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:40:52.625+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:40:52.648+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:40:52.648+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:40:52.656+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:40:52.656+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:40:52.672+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T10:41:38.004+0700] {processor.py:157} INFO - Started process (PID=13171) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:41:38.006+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:41:38.007+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:41:38.007+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:41:38.018+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:41:38.041+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:41:38.041+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:41:38.049+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:41:38.049+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:41:38.073+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-12-12T10:42:26.034+0700] {processor.py:157} INFO - Started process (PID=13231) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:42:26.036+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:42:26.036+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:42:26.036+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:42:26.045+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:42:26.066+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:42:26.066+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:42:26.074+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:42:26.074+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:42:26.099+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2023-12-12T10:43:13.192+0700] {processor.py:157} INFO - Started process (PID=13425) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:43:13.195+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:43:13.197+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:43:13.196+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:43:13.217+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:43:13.239+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:43:13.239+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:43:13.247+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:43:13.247+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:43:13.267+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2023-12-12T10:43:58.616+0700] {processor.py:157} INFO - Started process (PID=13645) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:43:58.617+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:43:58.617+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:43:58.617+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:43:58.628+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:43:58.648+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:43:58.648+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:43:58.656+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:43:58.656+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:43:58.674+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T10:46:24.696+0700] {processor.py:157} INFO - Started process (PID=14111) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:46:24.699+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:46:24.702+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:46:24.700+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:46:24.731+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:46:24.756+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:46:24.755+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:46:24.763+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:46:24.763+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:46:24.781+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2023-12-12T10:47:11.116+0700] {processor.py:157} INFO - Started process (PID=14355) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:47:11.119+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:47:11.122+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:47:11.121+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:47:11.145+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:47:11.167+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:47:11.167+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:47:11.175+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:47:11.175+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:47:11.193+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2023-12-12T10:47:56.264+0700] {processor.py:157} INFO - Started process (PID=14414) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:47:56.266+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:47:56.267+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:47:56.266+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:47:56.277+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:47:56.303+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:47:56.303+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:47:56.312+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:47:56.312+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:47:56.333+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-12-12T10:48:45.378+0700] {processor.py:157} INFO - Started process (PID=14548) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:48:45.380+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:48:45.380+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:48:45.380+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:48:45.393+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:48:45.420+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:48:45.420+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:48:45.429+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:48:45.429+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:48:45.446+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-12-12T10:49:32.714+0700] {processor.py:157} INFO - Started process (PID=14631) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:49:32.717+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:49:32.720+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:49:32.719+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:49:32.741+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:49:32.762+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:49:32.762+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:49:32.771+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:49:32.770+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:49:32.788+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2023-12-12T10:50:22.638+0700] {processor.py:157} INFO - Started process (PID=14739) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:50:22.640+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:50:22.641+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:50:22.640+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:50:22.660+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:50:22.686+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:50:22.686+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:50:22.695+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:50:22.695+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:50:22.713+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2023-12-12T10:51:11.625+0700] {processor.py:157} INFO - Started process (PID=14907) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:51:11.626+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:51:11.627+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:51:11.627+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:51:11.637+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:51:11.656+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:51:11.656+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:51:11.664+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:51:11.664+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:51:11.681+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2023-12-12T10:51:57.144+0700] {processor.py:157} INFO - Started process (PID=15129) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:51:57.147+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:51:57.149+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:51:57.148+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:51:57.178+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:51:57.205+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:51:57.205+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:51:57.214+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:51:57.213+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:51:57.234+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.098 seconds
+[2023-12-12T10:52:50.879+0700] {processor.py:157} INFO - Started process (PID=15358) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:52:50.882+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:52:50.885+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:52:50.883+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:52:50.902+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:52:50.927+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:52:50.927+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:52:50.938+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:52:50.938+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:52:50.960+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2023-12-12T10:53:44.187+0700] {processor.py:157} INFO - Started process (PID=15458) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:53:44.188+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:53:44.190+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:53:44.189+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:53:44.201+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:53:44.228+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:53:44.228+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:53:44.238+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:53:44.238+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:53:44.256+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-12-12T10:54:27.626+0700] {processor.py:157} INFO - Started process (PID=15558) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:54:27.628+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:54:27.629+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:54:27.628+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:54:27.646+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:54:27.676+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:54:27.676+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:54:27.686+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:54:27.686+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:54:27.713+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2023-12-12T10:55:16.098+0700] {processor.py:157} INFO - Started process (PID=15667) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:55:16.099+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:55:16.100+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:55:16.099+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:55:16.113+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:55:16.140+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:55:16.140+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:55:16.148+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:55:16.148+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:55:16.170+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2023-12-12T10:56:07.736+0700] {processor.py:157} INFO - Started process (PID=15870) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:56:07.739+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:56:07.741+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:56:07.740+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:56:07.761+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:56:07.782+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:56:07.781+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:56:07.790+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:56:07.789+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:56:07.818+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-12-12T10:56:54.351+0700] {processor.py:157} INFO - Started process (PID=15926) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:56:54.354+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:56:54.356+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:56:54.355+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:56:54.377+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:56:54.413+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:56:54.413+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:56:54.424+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:56:54.424+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:56:54.454+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2023-12-12T10:57:48.560+0700] {processor.py:157} INFO - Started process (PID=15993) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:57:48.562+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:57:48.562+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:57:48.562+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:57:48.573+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:57:48.594+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:57:48.594+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:57:48.602+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:57:48.602+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:57:48.620+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-12T10:58:42.727+0700] {processor.py:157} INFO - Started process (PID=16058) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:58:42.729+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:58:42.730+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:58:42.729+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:58:42.737+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:58:42.755+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:58:42.755+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:58:42.775+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:58:42.775+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:58:42.808+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2023-12-12T10:59:32.201+0700] {processor.py:157} INFO - Started process (PID=16125) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:59:32.205+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T10:59:32.207+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:59:32.206+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:59:32.230+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T10:59:32.251+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:59:32.251+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T10:59:32.259+0700] {logging_mixin.py:154} INFO - [2023-12-12T10:59:32.259+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T10:59:32.285+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2023-12-12T11:00:17.509+0700] {processor.py:157} INFO - Started process (PID=16234) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:00:17.510+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:00:17.510+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:00:17.510+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:00:17.521+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:00:17.544+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:00:17.544+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:00:17.552+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:00:17.552+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:00:17.570+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2023-12-12T11:01:10.366+0700] {processor.py:157} INFO - Started process (PID=16307) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:01:10.368+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:01:10.368+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:01:10.368+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:01:10.380+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:01:10.404+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:01:10.404+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:01:10.416+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:01:10.416+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:01:10.439+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2023-12-12T11:01:59.163+0700] {processor.py:157} INFO - Started process (PID=16429) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:01:59.165+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:01:59.166+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:01:59.165+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:01:59.178+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:01:59.202+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:01:59.201+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:01:59.210+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:01:59.209+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:01:59.227+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2023-12-12T11:02:49.051+0700] {processor.py:157} INFO - Started process (PID=16487) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:02:49.061+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:02:49.061+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:02:49.061+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:02:49.075+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:02:49.105+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:02:49.104+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:02:49.116+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:02:49.116+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:02:49.142+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2023-12-12T11:03:37.488+0700] {processor.py:157} INFO - Started process (PID=16615) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:03:37.492+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:03:37.495+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:03:37.493+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:03:37.527+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:03:37.557+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:03:37.556+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:03:37.569+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:03:37.569+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:03:37.594+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2023-12-12T11:04:24.132+0700] {processor.py:157} INFO - Started process (PID=16675) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:04:24.134+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:04:24.135+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:04:24.134+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:04:24.149+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:04:24.176+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:04:24.176+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:04:24.190+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:04:24.190+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:04:24.212+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2023-12-12T11:05:19.009+0700] {processor.py:157} INFO - Started process (PID=16767) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:05:19.011+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:05:19.012+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:05:19.011+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:05:19.026+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:05:19.053+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:05:19.052+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:05:19.063+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:05:19.063+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:05:19.095+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-12-12T11:06:17.645+0700] {processor.py:157} INFO - Started process (PID=16841) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:06:17.647+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:06:17.650+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:06:17.648+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:06:17.673+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:06:17.704+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:06:17.704+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:06:17.714+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:06:17.714+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:06:17.741+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2023-12-12T11:07:17.198+0700] {processor.py:157} INFO - Started process (PID=16905) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:07:17.202+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:07:17.207+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:07:17.205+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:07:17.246+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:07:17.296+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:07:17.296+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:07:17.311+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:07:17.311+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:07:17.340+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.149 seconds
+[2023-12-12T11:08:14.956+0700] {processor.py:157} INFO - Started process (PID=17004) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:08:14.958+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:08:14.959+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:08:14.958+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:08:14.970+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:08:15.000+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:08:14.999+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:08:15.013+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:08:15.013+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:08:15.047+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2023-12-12T11:09:08.859+0700] {processor.py:157} INFO - Started process (PID=17262) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:09:08.861+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:09:08.862+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:09:08.861+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:09:08.879+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:09:08.910+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:09:08.910+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:09:08.924+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:09:08.923+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:09:08.943+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-12-12T11:09:55.566+0700] {processor.py:157} INFO - Started process (PID=17514) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:09:55.569+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:09:55.573+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:09:55.571+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:09:55.608+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:09:55.637+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:09:55.637+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:09:55.652+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:09:55.652+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:09:55.684+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.125 seconds
+[2023-12-12T11:10:48.093+0700] {processor.py:157} INFO - Started process (PID=17606) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:10:48.095+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:10:48.096+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:10:48.096+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:10:48.112+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:10:48.140+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:10:48.140+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:10:48.152+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:10:48.152+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:10:48.177+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2023-12-12T11:11:39.557+0700] {processor.py:157} INFO - Started process (PID=17673) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:11:39.560+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:11:39.563+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:11:39.561+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:11:39.591+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:11:39.623+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:11:39.623+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:11:39.635+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:11:39.635+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:11:39.659+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2023-12-12T11:12:31.621+0700] {processor.py:157} INFO - Started process (PID=17843) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:12:31.623+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:12:31.624+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:12:31.623+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:12:31.637+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:12:31.660+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:12:31.660+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:12:31.668+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:12:31.668+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:12:31.687+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2023-12-12T11:13:20.736+0700] {processor.py:157} INFO - Started process (PID=17932) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:13:20.736+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:13:20.737+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:13:20.737+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:13:20.745+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:13:20.766+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:13:20.765+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:13:20.774+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:13:20.774+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:13:20.791+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-12-12T11:14:05.996+0700] {processor.py:157} INFO - Started process (PID=18053) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:14:05.998+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:14:06.001+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:14:06.000+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:14:06.020+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:14:06.040+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:14:06.040+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:14:06.048+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:14:06.048+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:14:06.065+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2023-12-12T11:14:50.882+0700] {processor.py:157} INFO - Started process (PID=18113) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:14:50.883+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:14:50.884+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:14:50.884+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:14:50.896+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:14:50.923+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:14:50.923+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:14:50.933+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:14:50.933+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:14:50.960+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2023-12-12T11:15:42.817+0700] {processor.py:157} INFO - Started process (PID=18398) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:15:42.819+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:15:42.821+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:15:42.820+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:15:42.843+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:15:42.865+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:15:42.864+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:15:42.873+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:15:42.873+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:15:42.891+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2023-12-12T11:16:31.910+0700] {processor.py:157} INFO - Started process (PID=18618) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:16:31.911+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:16:31.911+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:16:31.911+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:16:31.920+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:16:31.940+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:16:31.940+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:16:31.949+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:16:31.949+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:16:31.965+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-12-12T11:17:20.098+0700] {processor.py:157} INFO - Started process (PID=18778) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:17:20.100+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:17:20.100+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:17:20.100+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:17:20.111+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:17:20.133+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:17:20.132+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:17:20.141+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:17:20.141+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:17:20.157+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-12-12T11:18:12.897+0700] {processor.py:157} INFO - Started process (PID=18875) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:18:12.900+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:18:12.902+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:18:12.901+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:18:12.922+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:18:12.946+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:18:12.946+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:18:12.955+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:18:12.955+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:18:12.973+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2023-12-12T11:19:04.705+0700] {processor.py:157} INFO - Started process (PID=18943) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:19:04.707+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:19:04.709+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:19:04.708+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:19:04.729+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:19:04.750+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:19:04.750+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:19:04.759+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:19:04.759+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:19:04.785+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2023-12-12T11:19:53.591+0700] {processor.py:157} INFO - Started process (PID=19082) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:19:53.594+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:19:53.597+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:19:53.596+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:19:53.620+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:19:53.642+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:19:53.642+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:19:53.650+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:19:53.650+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:19:53.668+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2023-12-12T11:20:40.115+0700] {processor.py:157} INFO - Started process (PID=19205) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:20:40.116+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:20:40.117+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:20:40.116+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:20:40.125+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:20:40.144+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:20:40.144+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:20:40.152+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:20:40.152+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:20:40.177+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2023-12-12T11:21:29.715+0700] {processor.py:157} INFO - Started process (PID=19377) to work on /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:21:29.717+0700] {processor.py:829} INFO - Processing file /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-12T11:21:29.718+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:21:29.718+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:21:29.730+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-12T11:21:29.756+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:21:29.756+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-12T11:21:29.769+0700] {logging_mixin.py:154} INFO - [2023-12-12T11:21:29.769+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-12T11:21:29.790+0700] {processor.py:179} INFO - Processing /home/vutha/miniconda3/envs/airflow_prj/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
